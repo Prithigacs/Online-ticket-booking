@@ -1,0 +1,55 @@
+/* src/styles.css */
+
+body {
+    background-color: #f8f9fa; /* Light background for contrast */
+  }
+  
+  h2 {
+    color: #343a40; /* Darker color for headings */
+  }
+  
+  .container {
+    background-color: white; /* White background for containers */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border-color: #007bff;
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Success button color */
+    border-color: #28a745;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545; /* Danger button color */
+    border-color: #dc3545;
+  }
+  
+  table {
+    background-color: #f8f9fa; /* Table background */
+  }
+  
+  .table th {
+    background-color: #007bff; /* Table header color */
+    color: white; /* Table header text color */
+  }
+  
+  /* styles.css */
+.navbar {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Optional shadow for depth */
+}
+.nav-link {
+    color: black !important; /* Ensures link color is white */
+}
+.nav-link:hover {
+    color: #ffc107 !important; /* Change color on hover */
+}
+.navbar-brand {
+    font-size: 1.5rem; /* Adjust brand font size */
+    margin-right: auto; /* Push brand to the left */
+}

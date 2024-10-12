@@ -1,0 +1,53 @@
+/* TicketBookingPage Custom Styles */
+.container.mt-5 {
+    max-width: 800px;
+  }
+  
+  .card {
+    background-color: #f8f9fa; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; 
+  }
+  
+  .card-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #343a40; 
+  }
+  
+  .card-text {
+    font-size: 1.2rem;
+    color: #6c757d;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #007bff; 
+    margin-bottom: 1.5rem;
+  }
+  
+  .available-seats {
+    margin-top: 1rem;
+  }
+  
+  button {
+    margin: 0.3rem;
+    font-size: 1.1rem;
+  }
+  
+  button.m-1 {
+    background-color: #007bff; 
+    border: none;
+    padding: 0.6rem 1.5rem;
+    border-radius: 8px;
+  }
+  
+  button.m-1:hover {
+    background-color: #0056b3; 
+  }
+  
+  p {
+    font-size: 1.1rem;
+    color: #dc3545; 
+  }
+  
